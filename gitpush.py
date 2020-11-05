@@ -3,5 +3,5 @@ import sys
 
 os.system("git add *")
 os.system("git status")
-os.system('git commit -m'+str(sys.argv[1]))
+os.system('git commit -m "added jupyter notebook and data set"')
 os.system("git push")
