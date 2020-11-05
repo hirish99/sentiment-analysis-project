@@ -1,5 +1,6 @@
-# sentiment-analysis-project 2020
-We plan on creating a machine learning program in order to use sentiment analysis to determine whether news is fake or not and use data science to guide our conclusions and explore our dataset. Group Members: Hirish Chandrasekaran, Isha Gokhale, Katie Hunyh, Kevin Zhang, Mateo Wang, Priyasha Agarwal.
+## sentiment-analysis-project 2020
+# Group Members: Hirish Chandrasekaran, Isha Gokhale, Katie Hunyh, Kevin Zhang, Mateo Wang, Priyasha Agarwal.
+We plan on creating a machine learning program in order to use sentiment analysis to determine whether news is fake or not and use data science to guide our conclusions and explore our dataset. 
 
 # Abstract
 Use a dataset provided by DataFlare: <a href="url">https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/</a> as a starting point for our models. Experiment with different models, starting with a passive agressive classifier.
