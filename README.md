@@ -34,7 +34,7 @@ Start learning how the underlying passive agressive classifier works, pros and c
 DataFlare, Kaggle
 
 # Technologies
-Python (pandas, ski-kit learn, matplotlib) for algorithm and loading/manipulating data. TensorFlow for more advanced models.
+Python (pandas, sci-kit learn, matplotlib) for algorithm and loading/manipulating data. TensorFlow for more advanced models.
 
 # Club Resources needed
 Free Food? :D and maybe more members who want to learn or know machine learning. 
