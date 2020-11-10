@@ -36,7 +36,4 @@ DataFlare, Kaggle
 # Technologies
 Python (pandas, sci-kit learn, matplotlib) for algorithm and loading/manipulating data. TensorFlow for more advanced models.
 
-# Club Resources needed
-Free Food? :D and maybe more members who want to learn or know machine learning. 
-
 
