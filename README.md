@@ -4,8 +4,8 @@ We have created a machine learning program along with TF-IDF preprocessing in or
 ## Abstract
 Use a dataset provided by DataFlare: <a href="url">https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/</a> as a starting point for our models. Experiment with different models, starting with a Passive Aggressive Classification Algorithm.
 
-# Timeline
-### Fall Summary
+## Timeline
+# Fall Summary
 ## Week 3: 
 Explore project group ideas, look at different data sets. Compare ideas. 
 ## Week 4: 
@@ -15,7 +15,7 @@ Start unpacking data, analyzing with pandas/numpy.
 ## Week 6 - 9: 
 Get aquianted with sci-kit learn, divide group up into two: group (1) purused a naive bayesian classifier approach using sci-kit learn (Isha, Priyasha), group (2)(Hirish, Katie, Kevin) pursued a support vector classifier. Completed a working model, tuned parameters, pickled the SVC model, and commited both model to repository in proper branch.
 
-### Winter Plan
+# Winter Plan
 ## Week 1
 Begin learning PyTorch. Tutorials here: https://pytorch.org/tutorials/, neural networks and backpropogation:  https://www.deeplearningbook.org/, in-depth explanation of PyTorch functions:  https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/forwardpropagation_backpropagation_gradientdescent/.
 
