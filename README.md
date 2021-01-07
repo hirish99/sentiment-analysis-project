@@ -1,5 +1,5 @@
 ## sentiment-analysis-project 2020
-We have created a machine learning program along with TF-IDF preprocessing in order to determine whether the news is fake or not and use data science to guide our conclusions and explore our dataset (FALL). We are currently pursuing more advanced models using PyTorch (WINTER). We'd like to thank Kennard Peters, a stats & ds alumni for his guidance on sci-kit learn and basic data science and Vamshi, a graduate student, for helping with PyTorch. Group Members: Hirish Chandrasekaran, Isha Gokhale, Katie Huynh, Kevin Zhang, Mateo Wang, Priyasha Agarwal.
+We have created a machine learning program along with TF-IDF preprocessing in order to determine whether the news is fake or not and use data science to guide our conclusions and explore our dataset (Fall 2020). We are currently pursuing more advanced models using PyTorch. Group Members: Hirish Chandrasekaran, Isha Gokhale, Katie Huynh, Kevin Zhang, Mateo Wang, Priyasha Agarwal.
 
 ## Abstract
 Use a dataset provided by DataFlare: <a href="url">https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/</a> as a starting point for our models. Experiment with different models, starting with a Passive Aggressive Classification Algorithm.
