@@ -32,6 +32,6 @@ Kevin/Katie will implement a RNN on our DataFlare data set and get an accuracy s
 DataFlare, Kaggle,
 
 # Technologies
-Python (pandas, sci-kit learn, matplotlib) for algorithm and loading/manipulating data. PyTorch and TorchText for more customizable models.
+Python (pandas, scikit-learn, matplotlib) for algorithm and loading/manipulating data. PyTorch and TorchText for more customizable models.
 
 
