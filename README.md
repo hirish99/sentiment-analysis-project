@@ -13,14 +13,23 @@ Finalize project group members, finalize data set, finalize theme and scope of p
 ## Week 5: 
 Start unpacking data, analyzing with pandas/numpy. 
 ## Week 6 - 9: 
-Get aquianted with sci-kit learn, divide group up into two: group (1) purused a naive bayesian classifier approach using sci-kit learn (Isha, Priyasha), group (2)(Hirish, Katie, Kevin) pursued a support vector classifier. Completed a working model, tuned parameters, pickled the SVC model, and commited both model to repository in proper branch.
+Get aquianted with sci-kit learn, divide group up into two: group (1) purused a naive bayesian classifier approach using sci-kit learn (Isha, Priyasha), group (2)(Hirish, Katie, Kevin) pursued a support vector classifier. Completed a working model, tuned parameters, pickled the SVC model, and commited both model to repository in proper branch. At the end of each meeting both groups explained their respective model and implementation to the other group.
 
 # Winter Plan
 ## Week 1
-Begin learning PyTorch. Tutorials here: https://pytorch.org/tutorials/, neural networks and backpropogation:  https://www.deeplearningbook.org/, in-depth explanation of PyTorch functions:  https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/forwardpropagation_backpropagation_gradientdescent/.
+Begin learning PyTorch. Tutorials here: https://pytorch.org/tutorials/, neural networks and backpropogation:  https://www.deeplearningbook.org/, in-depth explanation of PyTorch functions:  https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/forwardpropagation_backpropagation_gradientdescent/. RNN and CNN's on text data using TorchText and PyTorch: https://github.com/bentrevett/pytorch-sentiment-analysis.
+
+## Week 2
+We continued to learn PyTorch, specifically gradient descent and loss functions. Simple feedforward networks and backpropogation were discussed. Tensors: https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py. Tensors and autograd: https://pytorch.org/tutorials/beginner/pytorch_with_examples.html.
+
+## Week 3
+Introduction to RNN's. Kevin/Katie attempted to process data using TorchText. Isha/Priyasha/Hirish focused on learning RNN's in PyTorch.
+
+## Week 4 - 7
+Kevin/Katie will implement a RNN on our DataFlare data set and get an accuracy score. Isha/Priyasha will implement a CNN and also get a an accuracy score. For the last 15 minutes we both shared our progress and theory learned for each type of neural network to each other.
 
 # Data Sources
-DataFlare, Kaggle
+DataFlare, Kaggle,
 
 # Technologies
 Python (pandas, sci-kit learn, matplotlib) for algorithm and loading/manipulating data. PyTorch and TorchText for more customizable models.
