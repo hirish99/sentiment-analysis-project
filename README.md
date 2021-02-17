@@ -25,8 +25,13 @@ We continued to learn PyTorch, specifically gradient descent and loss functions.
 ## Week 3
 Introduction to RNN's. Kevin/Katie attempted to process data using TorchText. Isha/Priyasha/Hirish focused on learning RNN's in PyTorch.
 
-## Week 4 - 7
-Kevin/Katie/Priyasha implement a RNN on our DataFlare data set and get an accuracy score. Isha/Hirish implement a CNN and also get a an accuracy score. 
+## Week 4
+Kevin/Katie implement a RNN on our DataFlare data set and get an accuracy score. Isha/Hirish continue to work on CNN and also get a an accuracy score. 
+
+## Week 5
+Kevin/Katie/Priyasha continue to improve RNN. Isha/Hirish get an accuracy score for CNN.
+
+## Week 6
 
 # Data Sources
 DataFlare, Kaggle
