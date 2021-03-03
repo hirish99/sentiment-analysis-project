@@ -31,7 +31,8 @@ Kevin/Katie implement a RNN on our DataFlare data set and get an accuracy score.
 ## Week 5
 Kevin/Katie/Priyasha continue to improve RNN. Isha/Hirish get an accuracy score for CNN.
 
-## Week 6
+## Week 6 - 9
+The RNN is updated after running into bugs and the CNN has its code explained with comments. Done with our project!
 
 # Data Sources
 DataFlare, Kaggle
